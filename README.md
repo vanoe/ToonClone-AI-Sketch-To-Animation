@@ -10,6 +10,8 @@
 - AI Processing: CNN-based animation model
 - Output: Smooth, stylistically consistent animations
 
+<img src="./img/img-1.png" alt="Scheme">
+
 ---
 
 ## ⚙️ Technical Description
@@ -78,8 +80,77 @@ ToonClone AI simplifies the process:
 
 ---
 
+## 🖼️ Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td><img src="./img/img-2.png" alt="image"></td>
+            <td><img src="./img/img-3.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-4.png" alt="image"></td>
+            <td><img src="./img/img-5.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-6.png" alt="image"></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 ## 🎥 Examples
-- **Video Demos**: [Watch Examples](https://drive.google.com/drive/folders/1lPI4JDjXIdpxNndtryYw_p83ek-Ux-mn?usp=drive_link)
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <video src="" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 ---
 
