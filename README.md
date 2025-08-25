@@ -94,6 +94,10 @@ ToonClone AI simplifies the process:
         </tr>
         <tr>
             <td><img src="./img/img-6.png" alt="image"></td>
+            <td><img src="./img/img-7.jpg" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-8.webp" alt="image"></td>
             <td></td>
         </tr>
     </tbody>
