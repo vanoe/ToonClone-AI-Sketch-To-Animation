@@ -41,12 +41,12 @@
     <tbody>
         <tr>
             <td>
-                <video src="https://github.com/user-attachments/assets/f6027b57-92e5-43a4-94ab-35f7fa0e23af" controls preload>
+                <video src="https://github.com/user-attachments/assets/26702031-9016-46dd-8e74-3075278b9396" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src="https://github.com/user-attachments/assets/db329d5d-5f55-47b1-890e-d2f5b4098715" controls preload>
+                <video src="https://github.com/user-attachments/assets/db3c8352-6fb0-4f8e-b706-5b00a2f809e1" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
@@ -57,19 +57,19 @@
         </tr>
         <tr>
             <td>
-                <video src="https://github.com/user-attachments/assets/27e52388-69f9-4b1b-9bfe-f45879066ef0" controls preload>
+                <video src="https://github.com/user-attachments/assets/66c7e85f-e718-41b7-8ca3-26385883bfc2" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src="https://github.com/user-attachments/assets/07735e9b-b089-4045-8ecc-237ba943abc5" controls preload>
+                <video src="https://github.com/user-attachments/assets/c891c28f-3c15-4611-85b1-8ef56dd19159" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td>
-                <video src="https://github.com/user-attachments/assets/bff2dffb-e6cf-468d-9ba8-065c1e107613" controls preload>
+                <video src="https://github.com/user-attachments/assets/5faad864-4684-4d8d-8a1b-2802610c8485" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
