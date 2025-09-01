@@ -14,6 +14,72 @@
 
 ---
 
+## 🖼️ Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td><img src="./img/img-2.png" alt="image"></td>
+            <td><img src="./img/img-3.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-4.png" alt="image"></td>
+            <td><img src="./img/img-5.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-6.png" alt="image"></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 🎥 Animation examples
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/f6027b57-92e5-43a4-94ab-35f7fa0e23af" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/db329d5d-5f55-47b1-890e-d2f5b4098715" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-7.jpg" alt="image"></td>
+            <td><img src="./img/img-8.webp" alt="image"></td>
+        </tr>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/27e52388-69f9-4b1b-9bfe-f45879066ef0" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/07735e9b-b089-4045-8ecc-237ba943abc5" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/bff2dffb-e6cf-468d-9ba8-065c1e107613" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 ## ⚙️ Technical Description
 - **Frameworks**: PyTorch, TensorFlow
 - **Languages**: Python
@@ -77,72 +143,6 @@ ToonClone AI simplifies the process:
 - Mobile accessibility (Android/iOS apps)
 - Expanded animation style portfolio
 - More export formats & workflow integrations
-
----
-
-## 🖼️ Examples
-
-<table>
-    <tbody>
-        <tr>
-            <td><img src="./img/img-2.png" alt="image"></td>
-            <td><img src="./img/img-3.png" alt="image"></td>
-        </tr>
-        <tr>
-            <td><img src="./img/img-4.png" alt="image"></td>
-            <td><img src="./img/img-5.png" alt="image"></td>
-        </tr>
-        <tr>
-            <td><img src="./img/img-6.png" alt="image"></td>
-            <td><img src="./img/img-7.jpg" alt="image"></td>
-        </tr>
-        <tr>
-            <td><img src="./img/img-8.webp" alt="image"></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
----
-
-## 🎥 Examples
-
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <video src="https://github.com/user-attachments/assets/f6027b57-92e5-43a4-94ab-35f7fa0e23af" controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-            <td>
-                <video src="https://github.com/user-attachments/assets/db329d5d-5f55-47b1-890e-d2f5b4098715" controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <video src="https://github.com/user-attachments/assets/27e52388-69f9-4b1b-9bfe-f45879066ef0" controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-            <td>
-                <video src="https://github.com/user-attachments/assets/07735e9b-b089-4045-8ecc-237ba943abc5" controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <video src="https://github.com/user-attachments/assets/bff2dffb-e6cf-468d-9ba8-065c1e107613" controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
 
 ---
 
